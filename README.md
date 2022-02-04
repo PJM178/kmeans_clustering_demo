@@ -1,6 +1,6 @@
 # K-means clustering demo
 
-This is a demo of k-means clustering using R. A list of animals is clustered together into groups based on their shared featuresets. K-means clustering can be useful, e.g., in custromer segmentation.
+This is a demo of k-means clustering using R. A list of animals is clustered together into groups based on their shared featuresets. It's a useful method in wide variety of situations, for example in data exploration or customer segmentation. 
 
 ## Methodology and data
 
