@@ -16,7 +16,7 @@ When the feature number is high the results can be hard to visualize. However, u
 
 **Figure 1.** The optimal number of clusters
 
-Figure 1. visualizes the optimal number of clusters based on three statistics: average silhouette value, within cluster sum of squares (WSS), and gap statistic. Silhouette value would suggest 5 clusters, however we would like more separation between the groups so it's too small a value. Next best number of clusters based on it would be 12 clusters. WSS will always be smaller the larger the number of clusters. Gap statistic would suggest that 14 clusters is the optimal, but this is not supported by the average silhouette value. In the end 12 cluster centers are chosen.
+Determining the number of centers is not necessarily an easy step. Figure 1. visualizes the optimal number of clusters based on three statistics: average silhouette value, within cluster sum of squares (WSS), and gap statistic. Silhouette value would suggest 5 clusters, however we would like more separation between the groups so it's too small a value. Next best number of clusters based on it would be 12 clusters. WSS will always be smaller the larger the number of clusters. Gap statistic would suggest that 14 clusters is the optimal, but this is not supported by the average silhouette value. In the end 12 cluster centers are chosen.
 
 **Table 1.** Couple class clusters
 
