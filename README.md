@@ -38,6 +38,9 @@ As said before, higher dimensional data can be hard to visualize without plots g
 
 Figure 3. further visualizes the principal components 3 and 4, and how much they explain of the data variance. Together PC1, 2, 3, and 4 explain just over 50% of the data variance.
 
+PCA biplots provide pretty intuitive visualizations. For example, from figure 2. we can see that "vegetation", "grazer" as well as "hooves" features contribute a lot to groups 3 and 12. Elephant, Rhinoceros and Hippotamus group is close to those two groups, but what main features separate them are that they have a tough skin and they are bulbous, a characteristics which you may not associate with groups 3 and 12. All these animals are relatively timid, which has high negative correlation e.g. with "hunter" trait, which in turn has high positive correlation with "meatteeth" and "fierce" traits. These traits are of course associated with felidaes and other garnivores.
+
+
 ## References
 
 Instigate (2019) ggbiplot - Best looking PCA mapping: sample PCA scatter + grouped ellipse + principal component abundance and correlation. Available at: https://programmer.group/sample-pca-scatter-grouped-ellipse-principal-component-abundance-and-correlation.html (Accessed: 5 February 2022).
