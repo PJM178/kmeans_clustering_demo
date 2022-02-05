@@ -21,7 +21,7 @@ Figure 1. visualizes the optimal number of clusters based on three statistics: a
 **Table 1.** Couple class clusters
 
 |Class|Antelope|Horse|Giraffe|Zebra|Deer|Moose|Ox|Sheep|Buffalo|Cow|
-|---|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|-|
 |Cluster|3|3|3|3|3|12|12|12|12|12|
 
-Table 1. shows the cluster number from the model associated with a class. There's clear overlap if we think about the animals but in general the clusters make sense if we consider, for example, their habitat.
+Table 1. shows the cluster number from the model associated with a class. There's clear overlap if we think about the animals but in general the clusters make sense if we consider, for example, their habitat, skin thickness, etc.
